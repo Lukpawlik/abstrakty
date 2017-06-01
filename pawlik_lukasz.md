@@ -3,8 +3,14 @@
 <h3>
 Łukasz Pawlik
 </h3>
+<h3>
+Pavel Samonil
+</h3>
 <p>
-Uniwersytet Pedagogiczny
+Uniwersytet Pedagogiczny, Kraków, Polska
+</p>
+<p>
+Instytut Ekologii Lasu, Brno, Czechy
 </p>
 <br/>
 <p>

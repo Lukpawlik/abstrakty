@@ -4,7 +4,7 @@
 Marcin Kosiński
 </h3>
 <p>
-Data Applications Designer
+Gradient Metrics
 </p>
 <br/>
 <p>
